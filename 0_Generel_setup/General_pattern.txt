@@ -1,0 +1,5 @@
+[pattern]			# search for a pattern
+[pattern]{5,20} 	# seach for a pattern, which is 5 to 20 characters long
+^[pattern] 			# seach for a pattern, which  starts at the beginning of a line
+[pattern]$ 			# seach for a pattern, which stops at the end of a line
+

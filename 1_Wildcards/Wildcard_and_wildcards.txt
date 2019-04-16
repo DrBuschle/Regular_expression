@@ -1,0 +1,3 @@
+.	# any charater
+*	# Zero, 1 or more repetitions
+.*	# Capture everything
