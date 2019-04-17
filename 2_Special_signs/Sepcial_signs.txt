@@ -1,0 +1,9 @@
+*	Zero or more repetitions
++ 	One or more repetitions
+?	Optional character, e.g. -? can be a - or no -
+\s	Any whitespace
+. 	Any character
+\. 	Dot
+^	Starts with
+$	Ends with
+.*	Capture all 

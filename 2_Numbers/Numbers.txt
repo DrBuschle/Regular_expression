@@ -1,4 +1,0 @@
-[1]	# just find a 1
-[123]	# everything from 0 to 9
-[0-9]	# everything from 0 to 9
-[\d]	# any digit
