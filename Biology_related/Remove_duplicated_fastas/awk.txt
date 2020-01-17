@@ -1,0 +1,7 @@
+# remove fasta duplicates
+
+awk '/^>/{f=!d[$1];d[$1]=1}f' in.fa > out.fa
+
+
+# From Pierre Lindenbaum
+# https://www.biostars.org/p/143617/
