@@ -1,4 +1,7 @@
 # Alphanumeric combinations
 
 
-[:alnum:]	# alphanumeric characters like lettes and digits
+[[:alnum:]]	# alphanumeric characters like lettes and digits
+
+[[:xdigit:]	# hexadecimal digits:	0123456789ABCDEFabcdef
+
