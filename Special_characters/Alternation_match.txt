@@ -1,0 +1,3 @@
+# alternation match
+
+[(a|d)c]	# can match ac and dc

@@ -1,0 +1,5 @@
+# starting/ending with
+
+^[]	# Starts with:	not to mix up with [^], meaning a pattern starts with
+[]$	# Ends with
+

@@ -1,0 +1,11 @@
+# all possible signs and invisible whitespaces
+
+
+. 	Any character
+.*	Capture any character indefinately 
+\s	Any whitespace
+
+
+
+
+

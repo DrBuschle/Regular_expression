@@ -1,0 +1,6 @@
+# Repetitions
+
+
+*	Zero or more repetitions
++ 	One or more repetitions
+?	Optional character, e.g. -? can be a - or no -

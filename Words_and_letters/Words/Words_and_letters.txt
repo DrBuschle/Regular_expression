@@ -1,0 +1,7 @@
+# words
+
+\\w	# word
+\\W	# not a word
+
+
+

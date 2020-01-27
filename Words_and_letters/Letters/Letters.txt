@@ -1,0 +1,16 @@
+# Letters
+
+
+[A-Z]	# all uppercase A to Z letters
+[:upper:]	# all uppercase A to Z letters
+
+[a-z]	# all lowercase a to z letters
+[:lower:]	# all lowercase a to z letters
+
+[A-z]	# all uppercase and lowercase a to z letters
+[:alpha:]	# all uppercase and lowercase a to z letters
+
+[ab]	# a or b, but not ab
+[^ab]	# find neither a or b
+
+

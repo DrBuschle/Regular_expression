@@ -1,0 +1,17 @@
+[1]		# just find a 1
+[^1]		# find everything but the 1
+[0-9]		# everything from 0 to 9
+[0-9][0-9]	# 0-99
+[1-9][0-9]	# 10-99
+
+[1][4][7]	# finds 147
+[0-9][0-9][0-9]	# will also find 147
+[147]		# 1, 4 or 7, but NOT 147 and only 1 per search text
+
+[\\d]		# any digit
+[:digit:]	# any digit
+[\\D]		# not a digit
+
+[:xdigit:]	# hexadecimal digits also encludes digits:
+		# 0 1 2 3 4 5 6 7 8 9 10 A B C D E F a b c d e f
+
