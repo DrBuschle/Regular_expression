@@ -1,10 +1,8 @@
-# escape special signs
+# find special character
 
 
-[\.] 	# Dot
-[\\]	# \
-[\+]	# plus
-...
+[[:punct:]]	# punctuation characters like
+		# ! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ~
 
 
 
