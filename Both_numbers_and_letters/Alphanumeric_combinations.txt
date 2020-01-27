@@ -1,0 +1,4 @@
+# Alphanumeric combinations
+
+
+[:alnum:]	# alphanumeric characters like lettes and digits
