@@ -1,7 +1,7 @@
 # words
 
-\\w	# word
-\\W	# not a word
+[\w]	# word
+[\W]	# not a word
 
 
 
