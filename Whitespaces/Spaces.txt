@@ -1,4 +1,0 @@
-# Spaces
-
-\\s	# space
-\\S	# not space

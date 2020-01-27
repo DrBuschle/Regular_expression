@@ -1,3 +1,4 @@
-# Whitespaces
+# Spaces
 
-[:blank:]	# 
+\\s	# space
+\\S	# not space
