@@ -1,9 +1,9 @@
 # escape special signs
 
 
-\. 	# Dot
-\\	# \
-\+	# plus
+[\.] 	# Dot
+[\\]	# \
+[\+]	# plus
 ...
 
 

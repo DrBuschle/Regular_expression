@@ -1,5 +1,5 @@
 # wildcards
 
-.	# any charater
-*	# Zero, 1 or more repetitions
-.*	# Capture everything
+[.]	# any charater
+[*]	# Zero, 1 or more repetitions
+[.*]	# Capture everything

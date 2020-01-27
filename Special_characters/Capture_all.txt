@@ -1,4 +1,4 @@
 # capture all
 
 
-.*	Capture all 
+[.*]	Capture all 
