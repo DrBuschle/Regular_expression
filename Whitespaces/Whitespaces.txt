@@ -1,7 +1,7 @@
 # WhiteSpaces
 
-\\s	# all kind of whitespaces
+\s	# all kind of whitespaces
 [:blank:]	# all kinds of whitespaces
 
-\\S	# not space
+\S	# not space
 
