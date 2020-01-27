@@ -1,9 +1,9 @@
 # all possible signs and invisible whitespaces
 
 
-. 	Any character
-.*	Capture any character indefinately 
-\s	Any whitespace
+[.]	Any character, only a single one
+[.*]	Capture any character indefinitely 
+[\s]	Any whitespace
 
 
 
