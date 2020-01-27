@@ -1,3 +1,5 @@
+# digits and numbers
+
 [1]		# just find a 1
 [^1]		# find everything but the 1
 [0-9]		# everything from 0 to 9
