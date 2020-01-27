@@ -1,14 +1,9 @@
-# find special character
-
-[\.] 	# Dot
-[\\]	# \
-[\+]	# plus
-...
+# find printable character
 
 
+[[:print:]]	# gets you all the printable characters like
+		# [:alnum:], [:punct:], and [:space:]
 
-[[:punct:]]	# punctuation characters like
-		# ! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ~
 
 
 
