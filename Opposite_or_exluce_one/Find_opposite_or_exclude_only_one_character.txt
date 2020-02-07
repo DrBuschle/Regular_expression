@@ -1,0 +1,3 @@
+# find the opposite of a character, meaning you exclude only one character
+
+[^s]	# indicates that you search for everything except the s

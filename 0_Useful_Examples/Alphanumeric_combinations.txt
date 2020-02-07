@@ -1,0 +1,28 @@
+# find brackets including one or more characters
+
+
+### one character
+
+# Parentheses
+\(.\)
+
+# Square brackets
+\[.\]
+
+
+# Curly brackets
+\{.\}
+
+
+### many characters
+
+# Parentheses
+\(.*\)
+
+# Square brackets
+\[.*\]
+
+
+# Curly brackets
+\{.*\}
+

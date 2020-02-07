@@ -1,0 +1,9 @@
+# find graphical character
+
+
+[[:graph:]]	# gets you all the graphical characters like
+		# [:alnum:], [:punct:]
+
+
+
+

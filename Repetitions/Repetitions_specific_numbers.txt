@@ -1,0 +1,13 @@
+# Repetitions
+
+
+[i{5}]		# i occurs 5 times in a row
+[i{2,4}]	# i occurs 2-4 times in a row, but first chooses the !maximal! value
+[i{2,4}]?	# i occurs 2-4 times in a row, but first chooses the !minimal! value
+[i{2,}]		# i occurs 2 or more times
+
+
+
+
+
+	

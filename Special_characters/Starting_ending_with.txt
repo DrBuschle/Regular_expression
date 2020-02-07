@@ -1,5 +1,5 @@
 # starting/ending with
 
-^[]	# Starts with:	not to mix up with [^], meaning a pattern starts with
+^[]	# Starts with:	not to mix up with [^] (which indicates the opposite
 []$	# Ends with
 

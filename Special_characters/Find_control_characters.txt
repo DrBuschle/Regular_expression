@@ -1,0 +1,9 @@
+# find graphical character
+
+
+[[:cntrl:]]	# gets you all the control characters like
+		# [:alnum:], [:punct:]
+
+
+
+
